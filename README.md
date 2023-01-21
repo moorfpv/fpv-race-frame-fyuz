@@ -93,14 +93,31 @@ This work (DXF-Files) is licensed under a [Creative Commons (4.0 International L
 
 ![FYUZs300-Logo.png](Images/FYUZs300-Logo.png)
 
+* Arms: 4mm  
+* Armhook: 2mm
+* Weight 5" with 20mm Alu Standoffs: 43.5g  
+
+Sources: [Arm-Parts/Motormount-12mm](https://github.com/moorfpv/fpv-race-frame-fyuz/tree/master/Arm-Parts/Motormount-12mm)  
+
 ![2301_22-s300.jpg](Images/2301_22-s300.jpg)
 ---
 ![2301_23-s300.jpg](Images/2301_23-s300.jpg)
 ---
 ![2301_24-s300.jpg](Images/2301_24-s300.jpg)
 
----
+---  
+---  
 
 ![FYUZ-Logo.png](Images/FYUZ-Logo.png)
 
-images coming soon ...  
+* Arms: 5.5mm  
+* Armhook: 3mm
+* Weight 5" with 20mm Alu Standoffs: 56.2g  
+
+Sources: [Arm-Parts/Motormount-16mm](https://github.com/moorfpv/fpv-race-frame-fyuz/tree/master/Arm-Parts/Motormount-16mm)  
+
+![2301_22.jpg](Images/2301_22.jpg)
+---
+![2301_23.jpg](Images/2301_23.jpg)
+---
+![2301_24.jpg](Images/2301_24.jpg)
