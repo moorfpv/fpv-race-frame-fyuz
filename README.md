@@ -12,7 +12,7 @@ Bau dir deinen eigenen Race Copter für 16mm oder 12mm Lochkreis Motoren mit dem
 * Toplate: 2mm
 * Armhook: 2mm or 3mm
 * Arms: 4mm or 5.5mm
-* AIO-Mount: 2mm
+* AIO-Mount: 2mm, for M2, for 25.5 x 25.5 AIO Boards
 * Lipopad: 2mm Moosgummi
 * Stack mounting: 20 x 20 (for M2 or M3 screws)
 * Standoff distance: 20mm
